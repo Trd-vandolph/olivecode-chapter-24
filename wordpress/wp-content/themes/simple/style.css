@@ -184,7 +184,7 @@ a, a:hover {
     line-height: 31px;
     font-family: "Tex_B";
     color: #000;
-    font-weight: normal;
+    font-weight: bold;
     margin-left: 10px;
     margin-right: 10px;
     text-transform: lowercase;
@@ -2588,3 +2588,88 @@ pre{padding: 20px;}
 }
 
 /* Add your css here*/
+
+.alignnone{
+	margin-top: 100px;
+}
+.scroll{
+	margin-top: 175px;
+}
+
+/*---------------------- END OF 1ST PAGE-----------------*/
+#title-head{
+	margin: 0 auto;
+	height: 50px;
+	width: 200px;
+	border: 2px solid #FFF;
+	padding: 50px;
+}
+.title-image{
+	margin-top: 10px;
+}
+#white-page{
+	width: 875px;
+	margin:0 auto;
+	margin-top: 50px;
+	background-color: #FFF;
+	padding: 100px;
+	
+}
+.green-image{
+	margin-top: -200px;
+}
+
+.para-topic{
+	margin-left: 60px;
+	font-weight: bold;
+	position: absolute;
+	margin-top: -40px;
+	color:#000;
+}
+.left-side{
+	float: right;
+	width: 410px;
+}
+.right-side{
+	width: 410px;
+}
+
+/*----------------------- END OF 3RD PAGE----------------*/
+#box-square{
+	margin: 0 auto;
+	width: 500px;
+	background-color: #FFF;
+	padding: 5px;
+	margin-top: 50px;
+	box-sizing:border-box;
+	
+}
+#box-square p{
+	font-weight: bold;
+	margin-bottom: 2px;
+	padding: 10px;
+}
+#small-square{
+	margin: 0 auto;
+	width: 500px;
+	background-color:rgb(65,65,152);
+	padding: 5px;
+	box-sizing:border-box;
+	height: 35px;
+}
+.right-text{
+	color: #FFF;
+	margin-top: 2px;
+	float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
