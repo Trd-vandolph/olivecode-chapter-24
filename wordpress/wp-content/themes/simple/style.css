@@ -2588,3 +2588,84 @@ pre{padding: 20px;}
 }
 
 /* Add your css here*/
+/*--------------toppage css code start form here-------------*/
+.toppage-header-img{
+	margin: 50px 0px 0px 400px;
+	position: absolute;
+}
+.toppage-scroll-img{
+	margin: 450px 0px 0px 610px;
+	position: absolute;
+}
+/*--------------secondpage css code start here------------*/
+.secondpage-header-img{
+	width: 210px;
+	margin: auto;
+	padding: 50px;
+	border: 2px solid white;
+}
+.secondpage-blankpage{
+	width: 860px;
+	padding: 100px;
+	margin: auto;
+	background: white;
+	margin-top: 50px;
+}
+.secondpage-mid-img{
+	margin-top: -150px;
+}
+.secondpage-small-img{
+	margin-top: 40px;
+}
+.headline1-img{
+	width: 410px;
+	margin-top: 20px;
+	margin-right: 40px;
+	float: left;
+}
+.headline2-img{
+	width: 410px;
+	margin-top: 20px;
+	overflow: hidden;
+}
+.title-img{
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	margin-top: 10px;
+	margin-left: 60px;
+	position: absolute;
+}
+/*---------------thirdpage css start here----------------*/
+.thirdpage-header-img{
+	width: 210px;
+	margin: auto;
+	padding: 50px;
+	border: 2px solid white;
+}
+.white-box{
+	width: 500px;
+	margin: auto;
+	margin-top: 50px;
+	padding: 30px;
+	background: white;
+	box-sizing: border-box;
+}
+.white-box-content{
+	margin-bottom: 5px;
+	font-weight: bold;
+	color: black;
+}
+.blue-box{
+	width: 500px;
+	height: 35px;
+	padding: 5px;
+	margin: auto;
+	background: #404098;
+	box-sizing: border-box;
+}
+.blue-box-content{
+	color: white;
+	float: right;
+}
+/*---------------END--------------*/
